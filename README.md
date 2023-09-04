@@ -1,2 +1,3 @@
 # test-repo
-This is practice Git repo
+This is a practice Git repository.
+Author - Sahid Midda
